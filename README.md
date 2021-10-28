@@ -11,3 +11,7 @@ pip install -r requirements.txt
 ```
 python main.py.
 ```
+
+## Preview of project:
+
+![Preview](https://github.com/maximedrn/towers-of-hanoi-ascii/blob/master/images/preview.png)
